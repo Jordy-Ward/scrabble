@@ -1,2 +1,2 @@
 # scrabble
-Play a game of scrabble!
+Scrabble time
